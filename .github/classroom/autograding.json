@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Analisis 2023&#45;1&#45;t",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
