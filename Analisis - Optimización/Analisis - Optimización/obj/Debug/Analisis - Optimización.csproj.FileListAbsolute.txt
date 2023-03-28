@@ -1,0 +1,8 @@
+C:\Users\ADMIN\source\repos\Analisis - Optimización\Analisis - Optimización\bin\Debug\Analisis - Optimización.exe.config
+C:\Users\ADMIN\source\repos\Analisis - Optimización\Analisis - Optimización\bin\Debug\Analisis - Optimización.exe
+C:\Users\ADMIN\source\repos\Analisis - Optimización\Analisis - Optimización\bin\Debug\Analisis - Optimización.pdb
+C:\Users\ADMIN\source\repos\Analisis - Optimización\Analisis - Optimización\obj\Debug\Analisis - Optimización.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Analisis - Optimización\Analisis - Optimización\obj\Debug\Analisis - Optimización.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Analisis - Optimización\Analisis - Optimización\obj\Debug\Analisis - Optimización.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Analisis - Optimización\Analisis - Optimización\obj\Debug\Analisis - Optimización.exe
+C:\Users\ADMIN\source\repos\Analisis - Optimización\Analisis - Optimización\obj\Debug\Analisis - Optimización.pdb
